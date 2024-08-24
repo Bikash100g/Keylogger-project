@@ -1,0 +1,19 @@
+OBJECTIVE:
+The purpose of this application is to keep tracks on every key that is typed through the keyboard and
+send it to the admin through the mail server in the time set or given. It provides confidentiality as
+well as data recovery to all the IT infrastructures in need.
+HARDWARE REQUIREMENTS:
+Operating system : Windows and Linux specified
+RAM : 512MB (minimum requirement)
+Hard Disk : 1GB working space (minimum requirement)
+SOFTWARE REQUIREMENTS:
+Languages : Python
+Tools : PyCharm, Python 3.8.0
+Technology : Advanced programming using Python 
+
+ Programming Environment:
+1. Python 3.8.0
+2. Vs code studio
+ Program Files Used:
+1. Keylogger.py
+2. Execute_keylogger.py
